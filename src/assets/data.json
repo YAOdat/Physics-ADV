@@ -1,0 +1,64 @@
+{
+    "9-adv": {
+        "lessons": [
+            {
+                "id": "2",
+                "lessonName": "Lesson 2",
+                "calculatorFunctionName": "scientificNotationConverter",
+                "simulatorFunctionName": "grade9Lesson1Simulator",
+                "lessonTitle": "Mathematics and Physics",
+                "duration": "1 hour",
+                "difficulty": "Easy"
+            },
+            {
+                "id": "3",
+                "lessonName": "Lesson 3",
+                "calculatorFunctionName": "grade9Lesson2Calculator",
+                "simulatorFunctionName": "grade9Lesson2Simulator",
+                "lessonTitle": "Motion and forces",
+                "duration": "2 hours",
+                "difficulty": "Medium"
+            },
+            {
+                "id": "g9l4",
+                "lessonName": "Lesson 4",
+                "calculatorFunctionName": "grade9Lesson3Calculator",
+                "simulatorFunctionName": "grade9Lesson3Simulator",
+                "lessonTitle": "Energy and work",
+                "duration": "1.5 hours",
+                "difficulty": "Hard"
+            }
+        ]
+    },
+    "10-adv": {
+        "lessons": [
+            {
+                "id": "g10l1",
+                "lessonName": "Lesson 1",
+                "calculatorFunctionName": "grade10Lesson1Calculator",
+                "simulatorFunctionName": "grade10Lesson1Simulator",
+                "lessonTitle": "Electricity and magnetism",
+                "duration": "2 hours",
+                "difficulty": "Medium"
+            },
+            {
+                "id": "g10l2",
+                "lessonName": "Lesson 2",
+                "calculatorFunctionName": "grade10Lesson2Calculator",
+                "simulatorFunctionName": "grade10Lesson2Simulator",
+                "lessonTitle": "Waves and optics",
+                "duration": "1.5 hours",
+                "difficulty": "Hard"
+            },
+            {
+                "id": "g10l3",
+                "lessonName": "Lesson 3",
+                "calculatorFunctionName": "grade10Lesson3Calculator",
+                "simulatorFunctionName": "grade10Lesson3Simulator",
+                "lessonTitle": "Modern physics",
+                "duration": "2 hours",
+                "difficulty": "Hard"
+            }
+        ]
+    }
+}
