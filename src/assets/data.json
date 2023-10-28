@@ -33,11 +33,11 @@
     "10-adv": {
         "lessons": [
             {
-                "id": "g10l1",
+                "id": "G10T1CH1L1",
                 "lessonName": "Lesson 1",
-                "calculatorFunctionName": "grade10Lesson1Calculator",
+                "calculatorFunctionName": "hookeLaw",
                 "simulatorFunctionName": "grade10Lesson1Simulator",
-                "lessonTitle": "Electricity and magnetism",
+                "lessonTitle": "Periodic Motion",
                 "duration": "2 hours",
                 "difficulty": "Medium"
             },
